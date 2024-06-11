@@ -1,4 +1,4 @@
-# Flutter Implicit and Explicit
+# Flutter Implicit and Explicit Animations
  
 Este é um projeto criado durante um curso na plataforma Alura com foco em animações em Flutter priorizando o estudo de animações implícitas e explícitas.
 
